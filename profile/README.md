@@ -1,7 +1,9 @@
 # 🎵 MuAring (뮤어링) - 음악으로 이어지는 소셜 네트워크
-하루 한 곡, 당신의 하루를 음악으로 공유하고, 나와 같은 공간 속 새로운 취향을 발견하세요.
+<img width="2048" height="962" alt="image" src="https://github.com/user-attachments/assets/b8b2c2f7-f676-415f-bb78-7dd2a254ed02" />
 
-뮤어링(MuAring)은 'Music'과 'Sharing'의 합성어로, 음악을 매개로 사람들을 연결하는 그룹 기반 소셜 앱입니다. 피상적인 관계에 지친 사람들에게 '음악'이라는 공통의 관심사를 통해 깊이 있는 유대감과 새로운 발견의 즐거움을 선사합니다.
+_하루 한 곡, 당신의 하루를 음악으로 공유하고, 나와 같은 공간 속 새로운 취향을 발견하세요._
+
+뮤어링(MuAring)은 'Music'과 'Sharing'의 합성어로, 음악을 매개로 사람들을 연결하는 그룹 기반 소셜 앱입니다. '음악'이라는 공통의 관심사를 통해 깊이 있는 유대감과 새로운 발견의 즐거움을 선사합니다.
 
 <br>
 
@@ -23,18 +25,22 @@
 <br>
 
 ## 🚀 기술 스택 (Tech Stack)
-- Backend: Java, Spring Boot, Spring Security, JPA
-- Database:  PostgreSQL
-- Deployment: Docker
+### 📱 Frontend
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) ![Navigation](https://img.shields.io/badge/Jetpack%20Navigation-34A853?style=for-the-badge&logo=android&logoColor=white)
+### 🖥 Backend
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🗄 Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### 🚀 Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### 🔗 Open API
+![Kakao OAuth](https://img.shields.io/badge/Kakao%20OAuth-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000) ![Kakao Map](https://img.shields.io/badge/Kakao%20Map-FFCD00?style=for-the-badge&logo=kakao&logoColor=000000) ![Spotify API](https://img.shields.io/badge/Spotify%20API-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
+
 
 <br>
 
 ## 👨‍💻 팀원 소개 (Team)
-
-<br>
-
-## ⚙️ 시작하기 (Getting Started)
-
-<br>
-
-## 📜 라이선스 (License)
+| <img src="https://github.com/hyomee2.png" width="100" height="100"> | <img src="https://github.com/yyenii.png" width="130" height="130"> | <img src="https://github.com/romdyfo.png" width="130" height="130"> | <img src="https://github.com/ownue.png" width="130" height="130"> |
+|:---:|:---:|:---:|:---:|
+| **권형미** | **김예은** | **김지희** | **이은우** |
+| <a href="https://github.com/hyomee2"><img src="http://img.shields.io/badge/hyomee2-green?style=social&logo=github"/></a> | <a href="https://github.com/yyenii"><img src="http://img.shields.io/badge/yyenii-green?style=social&logo=github"/></a> | <a href="https://github.com/romdyfo"><img src="http://img.shields.io/badge/romdyfo-green?style=social&logo=github"/></a> | <a href="https://github.com/ownue"><img src="http://img.shields.io/badge/ownue-green?style=social&logo=github"/></a> |
